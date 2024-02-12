@@ -42,7 +42,7 @@ Antes de tudo, recomendo que você, pelo terminal, navegue até o diretório Des
 git clone https://github.com/LucasFrancoBN/desafio_analise_venda_1.git
 
 # Acesse o diretório da classe Program
-cd exercicio_funcional/src/application
+cd desafio_analise_venda_1/src/application
 ```
 Agora basta você digitar no seu terminal
 ```bash
